@@ -1,0 +1,53 @@
+body {
+	background-color: #ffffff;
+}
+
+.myb-head {
+	margin-bottom: 23px;
+	margin-top: 13px;
+	height: 20px;
+}
+.breadcrumbs {
+    float: left;
+    font-family: arial,helvetica,sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+}
+.myb-help {
+	float: right;
+}
+
+.myb-clear {
+	clear: both;
+}
+
+div#myb-contain {
+	margin-top: 23px;
+}
+
+div#myb-column-holder {
+	min-height: 750px;
+	min-width: 860px;
+	position: relative;
+}
+
+div#myb-left {
+	display: block;
+	left: 0;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	width: 213px;
+}
+
+div#myb-right {
+	margin-left: 230px;
+	margin-top: 23px;
+	min-width: 668px;
+	position: relative;
+}
+
+.sidebar_box {
+	border: 1px solid #c0c0c0;
+}
